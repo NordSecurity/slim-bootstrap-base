@@ -1,0 +1,14 @@
+{
+  "name": "nordsec/slim-bootstrap-base",
+  "description": "Base bootstrap functionality for slim",
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "slim/slim": "~3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nordsec\\SlimBootstrapBase\\": "src/"
+    }
+  }
+}
